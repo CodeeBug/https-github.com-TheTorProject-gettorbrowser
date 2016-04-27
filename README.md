@@ -1,7 +1,7 @@
 # Download Tor Browser
 
 In this repository you will find links to download the latest version of
-Tor Browser and Orbot, which currently are 5.5.4 and 15.1.2. Please select one of the links below:
+Tor Browser and Orbot, which currently are 5.5.5 and 15.1.2. Please select one of the links below:
 
 ## Android
 [Download Orbot](.,
