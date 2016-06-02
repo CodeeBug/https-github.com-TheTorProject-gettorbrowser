@@ -4,8 +4,7 @@ In this repository you will find links to download the latest version of
 Tor Browser and Orbot, which currently are 6.0 and 15.1.2. Please select one of the links below:
 
 ## Android
-[Download Orbot](.,
-https://github.com/TheTorProject/gettorbrowser/releases/download/v15.1.2/Orbot-v15.1.2.apk) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v15.1.2/Orbot-v15.1.2.apk.asc)).
+[Download Orbot](https://github.com/TheTorProject/gettorbrowser/releases/download/v15.1.2/Orbot-v15.1.2.apk) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v15.1.2/Orbot-v15.1.2.apk.asc)).
 
 ## Windows
 [Download Tor Browser](https://github.com/TheTorProject/gettorbrowser/releases/download/v6.0/torbrowser-install-6.0_en-US.exe) (English) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v6.0/torbrowser-install-6.0_en-US.exe.asc)).
