@@ -25,24 +25,24 @@ Tor Browser and Orbot, which currently are 7.0.2 and 15.1.2. Please select one o
 [Download Tor Browser](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/TorBrowser-7.0.2-osx64_zh-CN.dmg) (Chinese) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/TorBrowser-7.0.2-osx64_zh-CN.dmg.asc)).
 
 ## Linux 32-bit
-[Download Tor Browser](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux32-7.0.2_en-US.tar.xz) (English) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux32-7.0.2_en-US.tar.xz.asc)).
+[Download Tor Browser](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux32-7.0.3_en-US.tar.xz) (English) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux32-7.0.3_en-US.tar.xz.asc)).
 
-[Download Tor Browser](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux32-7.0.2_fa.tar.xz) (Farsi) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux32-7.0.2_fa.tar.xz.asc)).
+[Download Tor Browser](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux32-7.0.3_fa.tar.xz) (Farsi) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux32-7.0.3_fa.tar.xz.asc)).
 
-[Download Tor Browser](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux32-7.0.2_tr.tar.xz) (Turkish) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux32-7.0.2_tr.tar.xz.asc)).
+[Download Tor Browser](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux32-7.0.3_tr.tar.xz) (Turkish) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux32-7.0.3_tr.tar.xz.asc)).
 
-[Download Tor Browser](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux32-7.0.2_zh-CN.tar.xz) (Chinese) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux32-7.0.2_zh-CN.tar.xz.asc)).
+[Download Tor Browser](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux32-7.0.3_zh-CN.tar.xz) (Chinese) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux32-7.0.3_zh-CN.tar.xz.asc)).
 
 ## Linux 64-bit
 [Download Tor Browser](
-https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux64-7.0.2_en-US.tar.xz) (English) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux64-7.0.2_en-US.tar.xz.asc)).
+https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux64-7.0.3_en-US.tar.xz) (English) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux64-7.0.3_en-US.tar.xz.asc)).
 
 [Download Tor Browser](
-https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux64-7.0.2_fa.tar.xz) (Farsi) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux64-7.0.2_fa.tar.xz.asc)).
+https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux64-7.0.3_fa.tar.xz) (Farsi) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux64-7.0.3_fa.tar.xz.asc)).
 
 [Download Tor Browser](
-https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux64-7.0.2_tr.tar.xz) (Turkish) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux64-7.0.2_tr.tar.xz.asc)).
+https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux64-7.0.3_tr.tar.xz) (Turkish) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux64-7.0.3_tr.tar.xz.asc)).
 
 [Download Tor Browser](
-https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux64-7.0.2_zh-CN.tar.xz) (Chinese) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.2/tor-browser-linux64-7.0.2_zh-CN.tar.xz.asc)).
+https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux64-7.0.3_zh-CN.tar.xz) (Chinese) ([signature file](https://github.com/TheTorProject/gettorbrowser/releases/download/v7.0.3/tor-browser-linux64-7.0.3_zh-CN.tar.xz.asc)).
 
